@@ -1,12 +1,11 @@
 ---
 layout: archive
 title: "学术奖项"
-permalink: /portfolio/
+permalink: /awards/
 author_profile: true
 ---
 
 {% include base_path %}
-<br />
 <br />
 2022年，获“第九届张培刚发展经济学优秀成果奖”
 
