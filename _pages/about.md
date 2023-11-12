@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br />
 
 个人简介
 ---
