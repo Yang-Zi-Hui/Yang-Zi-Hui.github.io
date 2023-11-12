@@ -33,7 +33,7 @@ author_profile: true
 
  
 
-（三）主要发表的代表性论文
+（三）发表的代表性论文
 ---
 
 
@@ -89,7 +89,7 @@ author_profile: true
 
 注：被《中国社会科学文摘》2020年第6期转载.
 
-[38]"Systemic Risk in Global Volatility Spillover Networks" _**Journal of Futures Markets**_ (SSCI B+ Journal)  2020，40: 392-409.（First author）
+[38]"Systemic Risk in Global Volatility Spillover Networks" _**Journal of Futures Markets**_ (SSCI B+ Journal)  2020，40: 392-409.（**First author**）
 
 [37]《极端金融风险的有效测度与非线性传染》，**《经济研究》**，2019年第5期.（**第1作者**） 
 
@@ -103,7 +103,7 @@ author_profile: true
 
 [33]《“双赤字”还是“双重分叉”？——开放经济环境下中国积极财政政策冲击效应研究》，**《经济学季刊》**，2019第3期.（**第2作者**）
 
-[32]"Quantitative Easing and Volatility Spillovers across Countries and Asset Classes" _**Management Science**_  2017，63: 333-354（First author）
+[32]"Quantitative Easing and Volatility Spillovers across Countries and Asset Classes" _**Management Science**_  2017，63: 333-354（**First author**）
 
  注：（1）UT Dallas Top 24 Journals Financial Times Top 45 Journals  
 
@@ -137,7 +137,7 @@ author_profile: true
 
 [19]"Can International LETFs Deliver Their Promised Exposure to Foreign Markets?"， _**Journal of International Financial Markets Institutions & Money**_ (SSCI B+ Journal)   2014 31: 30-74. (Third author)
 
-[18]"Energy Consumption Carbon Emissions and Economic Growth in India"  **Economic Modelling** (SSCI) 2014 38: 533–540. (First author Corresponding author)
+[18]"Energy Consumption Carbon Emissions and Economic Growth in India"  **Economic Modelling** (SSCI) 2014 38: 533–540. (**First author Corresponding author**)
 
 [17]《CPI与PPI传导机制的非线性研究：正向传导还是反向倒逼？》，**《经济研究》**，2013年第3期.（**第1作者**）
 
@@ -145,7 +145,7 @@ author_profile: true
 
 注：被人大复印报刊资料《世界经济导刊》2013年04期全文转载.
 
-[15] "Intraday Price Discovery and Volatility Transmission in Stock Index and Stock Index Futures Markets: Evidence from China"，_**Journal of Futures Markets**_(SSCI B+ Journal) 2012  32(2): 99–121. (Second author)
+[15] "Intraday Price Discovery and Volatility Transmission in Stock Index and Stock Index Futures Markets: Evidence from China"，_**Journal of Futures Markets**_(SSCI B+ Journal) 2012  32(2): 99–121. (**Second author**)
 
 注：（1）Lead Article
 
