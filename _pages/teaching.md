@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <br />
-<br />
+
 2021年国家社科基金重大项目，主持；
 
 广东省自然科学基金重点项目，主持；
