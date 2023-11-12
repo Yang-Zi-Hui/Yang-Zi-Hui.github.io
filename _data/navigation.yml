@@ -5,10 +5,10 @@ main:
     url: /publications/  
 
   - title: "科研课题"
-    url: /teaching/    
+    url: /projects/    
     
   - title: "学术奖项"
-    url: /portfolio/
+    url: /awards/
 
   - title: "科研服务"
-    url: /talks/  
+    url: /services/  
