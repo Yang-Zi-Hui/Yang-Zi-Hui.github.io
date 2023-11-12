@@ -12,3 +12,6 @@ main:
 
   - title: "科研服务"
     url: /services/  
+
+  - title: "个人风采"
+    url: /personality/  
