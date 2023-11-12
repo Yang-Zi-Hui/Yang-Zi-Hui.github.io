@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "科研课题"
-permalink: /teaching/
+permalink: /projects/
 author_profile: true
 ---
 
