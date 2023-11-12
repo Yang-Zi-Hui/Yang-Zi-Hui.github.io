@@ -1,8 +1,7 @@
----
-title: "研究成果"
-collection: publications
-excerpt: 'Publications'
----
+
+研究成果
+===
+
 
 （一）专著
 ---
