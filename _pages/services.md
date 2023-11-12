@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "科研服务"
-permalink: /talks/
+permalink: /services/
 author_profile: true
 ---
 
