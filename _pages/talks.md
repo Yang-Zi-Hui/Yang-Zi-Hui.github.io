@@ -5,12 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
 
 
 
-{% endif %}
-
+      
 
 
 科研服务
